@@ -1,6 +1,8 @@
 # Resumen Clase 1
-texto
 
-<html>
-  <p>parrafo</p>
-</html>
+
+
+```javascript
+const value = 3;
+let result = value * 4;
+```
