@@ -19,6 +19,21 @@ Sin embargo las capacidades de JavaScript en el navegador están limitadas para 
 * Diferentes pestañas y ventanas generalmente no se conocen entre sí. A veces sí lo hacen: por ejemplo, cuando una ventana usa JavaScript para abrir otra. Pero incluso en este caso, JavaScript no puede acceder a la otra si provienen de diferentes sitios (de diferente dominio, protocolo o puerto).
 * JavaScript puede fácilmente comunicarse a través de la red con el servidor de donde la página actual proviene. Pero su capacidad para recibir información de otros sitios y dominios está bloqueada. Aunque sea posible, esto requiere un acuerdo explícito (expresado en los encabezados HTTP) desde el sitio remoto.
 
+### ¿Cómo agregar JavaScript en una página web?
+
+```html
+// Guión en línea
+<button onclick="alert('Hola mundo!')">Click Me</button>
+
+// Guión interno
+<script>
+      console.log('Hola mundo!')
+</script>
+
+// Guión externo
+<script src="introduccion.js" ></script>
+```
+
 ### ¿Qué es NodeJs?
 
 Lo primero que tenemos que enfrentar a la hora de deshacernos del browser o navegador es que vamos a necesitar un Entorno de Ejecución JS en nuestro equipo o sistema operativo para que logremos ejecutar el código escrito en JavaScript. NodeJs es un motor de ejecución de JavaScript open-source que está basado en el motor de Javascript que Google creo para el navegador Chrome y que es llamado V8.
