@@ -799,57 +799,6 @@ Veamos un ejemplo:
 
 Uno de los usos más importantes de las IIFE es para mantener el scope global limpio. Dado que las variables o funciones definidas dentro de una función no pueden ser accedidas desde fuera de la función.
 
-## Ejercicios
-
-### Ejercicio 1:
-
-##### Estructuras condicionales, operadores, funciones
-
-Escribí un programa que dado un año como entrada diga si es bisiesto o no.
-
-Tené en cuenta que un año es bisiesto si:
-
--   Divisible por 4.
--   No divisible por 100.
--   Divisible por 400. (2000 y 2400 son bisiestos pues aún siendo divisibles por 100 lo son también por 400. Pero los años 1900, 2100, 2200 y 2300 no lo son porque solo son divisibles por 100).
-
-Ejemplo:
-
-Entrada:
-
-```
-1924
-```
-
-Salida:
-
-```
-1924 es un año bisiesto
-```
-
-### Ejercicio 2:
-
-##### Estructuras iterativas, estructuras condicionales, cadenas, funciones
-
-Escribí un programa que dado un texto como una frase, escriba en la consola el texto, poniendo una palabra en cada línea y encerrado en una recuadro hecho con un caracter especial como el asterisco o numeral.
-
-Ejemplo:
-
-Entrada:
-
-```
-Errar es humano
-```
-
-Salida:
-
-```
-**********
-* Errar  *
-* es     *
-* humano *
-**********
-```
 
 ## Referencias
 

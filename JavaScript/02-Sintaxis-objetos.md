@@ -1,4 +1,4 @@
-# Clase 3  - Objetos
+# Objetos
 ## ¿Qué es un objeto en JS? (*)
 
 Un objeto es una colección de propiedades.
