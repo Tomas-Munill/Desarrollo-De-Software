@@ -1,0 +1,12 @@
+{
+  "name": "ej06-modulos",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Como estructurar un proyecto en módulos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tomas",
+  "license": "ISC"
+}

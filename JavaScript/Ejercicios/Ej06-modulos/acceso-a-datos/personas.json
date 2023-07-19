@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nombre": "Tomas",
+        "correo": "tomas@gmail.com",
+        "profesion": "estudiante",
+        "fechaNacimiento": "2002-06-19T03:00:00.000Z"
+    },
+    {
+        "id": 2,
+        "nombre": "Juan",
+        "correo": "juan@gmail.com",
+        "profesion": "profesor",
+        "fechaNacimiento": "1998-01-22T03:00:00.000Z"
+    },
+    {
+        "id": 3,
+        "nombre": "Lucia",
+        "correo": "lucia@gmail.com",
+        "profesion": "estudiante",
+        "fechaNacimiento": "2010-05-11T03:00:00.000Z"
+    },
+    {
+        "id": 4,
+        "nombre": "Facundo",
+        "correo": "facundo@gmail.com",
+        "profesion": "ingeniero en sistemas",
+        "fechaNacimiento": "2002-02-08T03:00:00.000Z"
+    },
+    {
+        "id": 5,
+        "nombre": "Sofia",
+        "correo": "sofia@gmail.com",
+        "profesion": "medico",
+        "fechaNacimiento": "1997-07-17T03:00:00.000Z"
+    },
+    {
+        "id": 6,
+        "nombre": "Sabrina",
+        "correo": "sabrina@gmail.com",
+        "profesion": "policia",
+        "fechaNacimiento": "1997-07-01T03:00:00.000Z"
+    },
+    {
+        "id": 7,
+        "nombre": "Gustavo",
+        "correo": "gustavo@gmail.com",
+        "profesion": "ingeniero en sistemas",
+        "fechaNacimiento": "2002-09-17T03:00:00.000Z"
+    },
+    {
+        "id": 8,
+        "nombre": "Leonel",
+        "correo": "leonel@gmail.com",
+        "profesion": "futbolista",
+        "fechaNacimiento": "1997-07-16T04:00:00.000Z"
+    }
+]
